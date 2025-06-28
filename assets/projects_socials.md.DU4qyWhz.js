@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.BZemHgQ6.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"projects/socials.md","filePath":"projects/socials.md","lastUpdated":null}'),a={name:"projects/socials.md"};function o(c,r,n,p,i,l){return s(),t("div")}const m=e(a,[["render",o]]);export{_ as __pageData,m as default};
