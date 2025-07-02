@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.BZemHgQ6.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"community/homies.md","filePath":"community/homies.md","lastUpdated":null}'),a={name:"community/homies.md"};function s(m,n,c,r,i,d){return o(),t("div")}const l=e(a,[["render",s]]);export{_ as __pageData,l as default};
