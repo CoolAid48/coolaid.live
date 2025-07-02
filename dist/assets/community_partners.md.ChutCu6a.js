@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.BZemHgQ6.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"community/partners.md","filePath":"community/partners.md","lastUpdated":null}'),r={name:"community/partners.md"};function n(s,o,c,p,m,i){return a(),e("div")}const l=t(r,[["render",n]]);export{_ as __pageData,l as default};
