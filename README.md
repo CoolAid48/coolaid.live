@@ -1,1 +1,1 @@
-### coolaid.live
+### [coolaid.live](https://coolaid.live/)
