@@ -5,7 +5,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({ 
 
   lastUpdated: true,
-  cleanUrls: true,
   metaChunk: true,
 
   head: [['link', {rel: 'icon', href: '/icon.png' }]],
