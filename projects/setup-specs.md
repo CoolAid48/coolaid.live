@@ -1,7 +1,6 @@
 # CoolAid Setup Specs
 ##### Everything to know about CoolAid's PC Specs and Stream Setup
 ---
-![Intel Core Processor](/intel.png)
 
 ---
 ### Main Streaming PC (Custom)
@@ -17,7 +16,6 @@
 - _Main Monitor_ - LG Ultragear 27GN65S - 27"
 - _Monitors_ - x2 Koorui 24E4 - 24" | LG 22LJ4540 LED TV - 22" (Old, lol)!
 ---
-![HP Gaming Laptop](/laptop.png)
 
 ---
 ### Secondary HP Gaming Laptop
@@ -27,7 +25,6 @@
 - _RAM_ - (Upgraded) TEAMGROUP 32GB DDR4
 - _Storage_ - 512GB SSD
 ---
-![Keychron S1 Keyboard](/keyboard.png)
 
 ---
 ### Peripherals/Other Gear
