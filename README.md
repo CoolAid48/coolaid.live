@@ -1,2 +1,2 @@
-# My own static website built using VitePress
-## coolaid.live
+# [coolaid.live](coolaid.live)
+My own static website built using VitePress
