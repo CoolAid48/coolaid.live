@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./chunks/framework.BZemHgQ6.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/coolclubbot.md","filePath":"pages/coolclubbot.md","lastUpdated":null}'),a={name:"pages/coolclubbot.md"};function c(s,l,r,n,p,d){return o(),e("div")}const m=t(a,[["render",c]]);export{i as __pageData,m as default};

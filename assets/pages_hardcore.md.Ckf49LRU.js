@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.BZemHgQ6.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/hardcore.md","filePath":"pages/hardcore.md","lastUpdated":null}'),r={name:"pages/hardcore.md"};function o(s,c,d,n,p,_){return t(),a("div")}const m=e(r,[["render",o]]);export{l as __pageData,m as default};
