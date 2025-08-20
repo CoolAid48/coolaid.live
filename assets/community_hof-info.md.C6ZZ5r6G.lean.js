@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as e}from"./chunks/framework.BZemHgQ6.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"community/hof-info.md","filePath":"community/hof-info.md","lastUpdated":null}'),n={name:"community/hof-info.md"};function a(c,r,s,f,i,m){return e(),o("div")}const _=t(n,[["render",a]]);export{p as __pageData,_ as default};

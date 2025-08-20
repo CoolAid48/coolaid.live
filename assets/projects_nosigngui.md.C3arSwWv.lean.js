@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.BZemHgQ6.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"projects/nosigngui.md","filePath":"projects/nosigngui.md","lastUpdated":null}'),o={name:"projects/nosigngui.md"};function s(a,r,c,i,p,d){return n(),t("div")}const g=e(o,[["render",s]]);export{l as __pageData,g as default};
