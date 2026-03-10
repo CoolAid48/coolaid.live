@@ -87,16 +87,18 @@ export default defineConfig({
             { text: 'HOF Items List', link: 'https://docs.google.com/spreadsheets/d/145x9910pUwjP6y4u008SjjX_q6jKdTfD7xz55zppjpg/edit?gid=0#gid=0' }
           ]
         }
-      ]
+      ] 
     },
 
     socialLinks: [
       { icon: 'github',    link: 'https://github.com/CoolAid48' },
+      { icon: 'twitch',    link: 'https://www.twitch.tv/coolaid48'},  
       { icon: 'youtube',   link: 'https://www.youtube.com/@CoolAid48'},
-      { icon: 'tiktok',    link: 'https://www.tiktok.com/@coolaid48'},
-      { icon: 'bluesky',   link: 'https://bsky.app/profile/coolaid.live'},  
       { icon: 'x',         link: 'https://x.com/CoolAid48'},
-      { icon: 'instagram', link: 'https://www.instagram.com/coolaid48_/'}
+      { icon: 'bluesky',   link: 'https://bsky.app/profile/coolaid.live'},  
+      { icon: 'tiktok',    link: 'https://www.tiktok.com/@coolaid48'},
+      { icon: 'instagram', link: 'https://www.instagram.com/coolaid48_/'},
+      { icon: 'kofi',      link: 'https://ko-fi.com/coolaid48' }
     ]
   }
 })

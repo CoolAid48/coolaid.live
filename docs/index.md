@@ -23,20 +23,20 @@ hero:
 
 features:
   - icon: 📝
-    title: About Me
-    details: Find out all about me and what I do around here
+    title: About Me!
+    details: Learn all about me and what I enjoy doing on the internet
     link: /pages/about
   - icon: 🖥️
-    title: CoolAid's Creations
+    title: My Creations
     details: Check out all my Minecraft mods and other projects
     link: /pages/website
   - icon: 🎫
     title: Need Support?
-    details: Create a ticket in the Discord for any questions, comments, or concerns
+    details: Open a ticket in the Discord for any questions or concerns
     link: https://discord.gg/acxXmvMxP8
   - icon: 👕
-    title: Browse Merch
-    details: You can find all CoolAid merch over at shop.coolaid.live
+    title: CoolAid Merch
+    details: Check out the CoolAid48 merch store over at shop.coolaid.live
     link: https://shop.coolaid.live/
 
 ---

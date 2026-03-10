@@ -1,38 +1,52 @@
 # MEET THE HOMIES
 
 ---
-### Community Moderators ⭐
-- Abrakaidabra_ | Check out Abra's Builds [HERE](https://uk.pinterest.com/Abrakaidabra/_created/) | Suggest new build ideas [HERE](https://docs.google.com/forms/d/e/1FAIpQLScIJ2PayJli7UFeaH-Au4Cb-SYMUDZfgjxqlzynoEQ5xu4BqA/viewform)
-- landan_fishes_a_lot
+### ⚔️ Community Moderators ⚔️
+- Abrakaidabra
 - Nackslash
-- Taupestar | Check out Taupe's Facts [HERE](https://shop.coolaid.live/pages/taupes-facts) on the store page!
-- wiizdom_
+- Taupestar
 - xdpugpickle
 - PurpleSquirrel1503
 - FamilyZack
-- rccardistry
+
+**(Check out some of Abra's incredible Minecraft builds on his [Pinterest](https://uk.pinterest.com/Abrakaidabra/_created/))**
 
 ---
-### Top Supporters <3
+### ❤️ Top Supporters ❤️
 ![homies](/homies.png)
-- MonoCXB       
-- Zdoggy11MC  
-- heybales_    
-- axel946649
-- PurpleSquirrel1503
-- MsMikayla62
-- lovely_beez
-- Linkzzey
-- Taupestar
-- rccardistry
-- kastorbeavers
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1;">
+
+  * MonoCXB
+  * Zdoggy11MC  
+  * heybales_    
+  * axel946649
+
+  </div>
+  <div style="flex: 1;">
+
+  * PurpleSquirrel1503
+  * MsMikayla62
+  * lovely_beez
+  * Linkzzey
+
+  </div>
+  <div style="flex: 1;">
+
+  * Taupestar
+  * rccardistry
+  * kastorbeavers
+  * saddlrrr
+
+
+  </div>
+</div>
 
 ---
-### Channel Artists & Bots🎨
-- Serbiart_ - First Emote Batch
-- locollama_ - Bulk of my Emotes
-- hyugo - Various emotes, custom resource pack, and other art
-- CarlCrafts - Animated Hardcore Heart
-- CoolClubBot - Head Honcho of Bots
-- StreamElements - Some Commands
-- FourthWallHQ - Merch Store Bot
+### 🎨 Channel Artists 🎨
+- [Serbiart_](https://www.fiverr.com/serbiart_) - OG Peepo Emotes
+- [locollama_](https://x.com/locollama_) - Bulk of my Emotes
+- [shimmer](https://x.com/58shimmer) - Various graphics and custom resource pack textures
+- [MandaLin](https://ko-fi.com/mandalin) - Some of my Minecraft mod assets and icons
+- [CarlCrafts](https://www.twitch.tv/carlcrafts) - Animated Hardcore Heart
