@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "CoolAid.live"
-  text: "Hi my name is Aidan, Welcome to my site"
-  tagline: About me, my projects, and more...
+  text: "Hi my name is Aidan, welcome to my site!"
+  tagline: About me, my interests, and more...
   image:
         src: /icon.png
         alt: CoolAid
