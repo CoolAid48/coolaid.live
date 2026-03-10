@@ -1,0 +1,1 @@
+## [coolaid.live](coolaid.live) is my own static website built using VitePress
