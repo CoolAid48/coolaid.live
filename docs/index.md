@@ -31,8 +31,8 @@ features:
     details: Check out all my Minecraft mods and other projects
     link: /pages/website
   - icon: 🎫
-    title: Create a Ticket
-    details: Feel free to make a ticket in the Discord for any questions, comments, or concerns
+    title: Need Support?
+    details: Create a ticket in the Discord for any questions, comments, or concerns
     link: https://discord.gg/acxXmvMxP8
   - icon: 👕
     title: Browse Merch
