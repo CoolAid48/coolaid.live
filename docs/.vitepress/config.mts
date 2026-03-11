@@ -47,8 +47,8 @@ export default defineConfig({
           { text: 'Twitch Channel', link: 'https://www.twitch.tv/coolaid48' },
         ]
       },
-      { text: 'CoolAid Merch Site', link: 'https://shop.coolaid.live/' },
-      { text: 'Join the Discord', link: 'https://discord.gg/y7x8P7fjCx' }
+      { text: 'CoolAid Merch Store', link: 'https://shop.coolaid.live/' },
+      { text: 'CoolAid\'s Ko-Fi Page', link: 'https://ko-fi.com/coolaid48' }
     ],
 
     sidebar: {
@@ -74,7 +74,7 @@ export default defineConfig({
           text: 'My Twitch Community',
           items: [
             { text: 'Hardcore World', link: '/pages/hardcore' },
-            { text: 'Mods and Packs List', link: '/pages/mods-packs-list' },
+            { text: 'Mods & Packs List', link: '/pages/mods-packs-list' },
             { text: 'Meet the Homies', link: '/pages/homies' },
             { text: 'Partnerships', link: '/pages/partners' },
           ]
