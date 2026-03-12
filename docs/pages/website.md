@@ -2,7 +2,7 @@
 outline: false
 ---
 
-# 🌐 This Website | [CoolAid.live](coolaid.live) 🌐
+# 🌐 This Website | [CoolAid.live](https://coolaid.live/) 🌐
 #### Welcome to my own static website built using VitePress!
 
 This site exists to keep information about myself, my coding projects, and my Twitch community all together in one place. I also just wanted a space separate from the CoolAid Merch store, so I've built my own static website with VitePress!
