@@ -2,18 +2,15 @@
 outline: false
 ---
 
-# 🌐 This Website | CoolAid.live 🌐
-#### Why build a website?
+# 🌐 This Website | [CoolAid.live](coolaid.live) 🌐
+#### Welcome to my own static website built using VitePress!
 
-**I created coolaid.live to keep information about myself, my coding projects, and my Twitch community all together in one place. I also just wanted a space separate from the CoolAid Merch store, so I've built my own static website built using VitePress!**
+This site exists to keep information about myself, my coding projects, and my Twitch community all together in one place. I also just wanted a space separate from the CoolAid Merch store, so I've built my own static website with VitePress!
 
-### 1) My Coding Projects
-You can find the info and documentation on all of my Minecraft mods right here on my site. Each mod description is listed under the "My Projects" category. You can also check out the wikis for my other creations, like CoolClubBot and the code to this website!
+VitePress is a fast, Vue.js-powered static site generator (SSG) designed for building websites focused on content such as blogs and documentation, for example. It's built on top of both Vite and Vue, and focuses on performance and simplicity... exactly what I'm looking for in a custom website. For context, [Vue.js](https://vuejs.org/) is a JavaScript framework used to build interactive UIs, and [Vite](https://vite.dev/) is a dev tool designed to make working on web projects faster by updating code instantly via a local server.
 
-### 2) Hardcore World and the Hall of Fame
-My Hardcore Minecraft world is a major part of my Twitch streams and my livelihood. The world features various builds dedicated to viewers and a Hall of Fame that supporters can join and redeem items for, all with their Twitch channel points. The Hall of Fame is a very much integrated part of my community so there's a category dedicated to it as well.
+Pages can be written in markdown (or custom HTML/CSS) and then VitePress converts them into a fully functional static site that can be deployed online. This website runs on GitHub Pages off the repository's source code
 
----
 | 🌐 Also check out the CoolAid48 merch store over at [shop.coolaid.live](https://shop.coolaid.live/), built with Fourthwall 🌐 |
 | :---: |
-| <img src="/homeStore.png" alt="CoolAid icon" width="650" /> |
+| <img src="/homeStore.png" alt="Store Home Page" width="650" /> |

@@ -24,7 +24,7 @@ features:
   - icon: 📝
     title: About Me!
     details: Learn all about me and what I enjoy doing on the internet
-    link: /pages/about
+    link: /pages/introduction
   - icon: 💎
     title: Donate on Ko-Fi
     details: Consider leaving a tip via Ko-Fi to keep funding my hobbies

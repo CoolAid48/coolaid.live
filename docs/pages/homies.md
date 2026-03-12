@@ -1,4 +1,5 @@
-# MEET THE HOMIES
+# 🤝 MEET THE HOMIES 🤝
+#### I feature my community mods, top supporters, and channel artists here
 
 ---
 ### ⚔️ Community Moderators ⚔️

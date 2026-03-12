@@ -1,4 +1,4 @@
-# CoolAid's 2000 Day Hardcore Minecraft World
+# ⛏️ CoolAid's Hardcore Minecraft World ⛏️
 ![stream](/hardcoreWorld.png)
 
 ### Basic Info

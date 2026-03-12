@@ -31,7 +31,7 @@ export default defineConfig({
     },    
 
     nav: [
-      { text: 'About Me', link: '/pages/about' },
+      { text: 'About Me', link: '/pages/introduction' },
       { text: 'My Projects',
         items: [
           { text: 'This Website!', link: '/pages/website' },
@@ -48,7 +48,7 @@ export default defineConfig({
         ]
       },
       { text: 'CoolAid Merch Store', link: 'https://shop.coolaid.live/' },
-      { text: 'CoolAid\'s Ko-Fi Page', link: 'https://ko-fi.com/coolaid48' }
+      { text: 'My Ko-Fi Page', link: 'https://ko-fi.com/coolaid48' }
     ],
 
     sidebar: {
@@ -56,7 +56,7 @@ export default defineConfig({
         {
           text: 'About Me',
           items: [
-            { text: 'Introduction', link: '/pages/about' },
+            { text: 'Introduction', link: '/pages/introduction' },
             { text: 'PC Setup Specs', link: '/pages/setup-specs' },
             { text: 'My Socials', link: '/pages/socials' },
           ]
@@ -64,18 +64,24 @@ export default defineConfig({
         {
           text: 'My Projects',
           items: [
-            { text: 'This Website | CoolAid.live', link: '/pages/website' },
-            { text: 'Enhanced Keybinds', link: '/pages/enhancedkeybinds' },
-            { text: 'NoSignGUI', link: '/pages/nosigngui' },
+            { text: 'This Website', link: '/pages/website' },
             { text: 'CoolClubBot', link: '/pages/coolclubbot' },
+            { text: 'NoSignGUI', link: '/pages/mods/disablesigngui' },
+            { text: 'Enhanced Keybinds', link: '/pages/mods/enhancedkeybinds' },
+            { text: 'Dynamic Raid Radius', link: '/pages/mods/drsr' },
+            { text: 'Disenchant Curses', link: '/pages/mods/disenchant-curses' },
+            { text: 'Hands Off My Block', link: '/pages/mods/hands-off-my-block' },
+            { text: 'NoMoreJumpscares', link: '/pages/mods/nomorejumpscares' },
+            { text: 'More Search Bars', link: '/pages/mods/more-search-bars' },
+            { text: 'Toggle Beacon Beams', link: '/pages/mods/toggle-beacon-beams' },
           ]
         },
         {
           text: 'CoolAid Twitch Community',
           items: [
+            { text: 'Meet the Homies', link: '/pages/homies' },
             { text: 'Hardcore World', link: '/pages/hardcore' },
             { text: 'Mods & Packs List', link: '/pages/mods-packs-list' },
-            { text: 'Meet the Homies', link: '/pages/homies' },
             { text: 'Teams & Affiliates', link: '/pages/teams-affiliates' },
           ]
         },
