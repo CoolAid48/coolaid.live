@@ -1,4 +1,3 @@
-![enhancedkeybinds](/enhancedkeybinds.png)
 
 ---
 # CoolAid's Enhanced Keybinds

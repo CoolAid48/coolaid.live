@@ -1,4 +1,3 @@
-![nosigngui](/nosigngui.png)
 
 ---
 ### DisableSignGUI (NoSignGUI 1.21.4+)

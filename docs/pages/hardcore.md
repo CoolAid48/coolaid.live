@@ -1,5 +1,5 @@
 # CoolAid's 2000 Day Hardcore Minecraft World
-![stream](/stream.png)
+![stream](/hardcoreWorld.png)
 
 ### Basic Info
 
