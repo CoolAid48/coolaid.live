@@ -62,21 +62,21 @@ export default defineConfig({
           ]
         },
         {
-          text: 'CoolAid\'s Creations',
+          text: 'My Projects',
           items: [
-            { text: 'CoolAid.live', link: '/pages/website' },
+            { text: 'This Website | CoolAid.live', link: '/pages/website' },
             { text: 'Enhanced Keybinds', link: '/pages/enhancedkeybinds' },
             { text: 'NoSignGUI', link: '/pages/nosigngui' },
             { text: 'CoolClubBot', link: '/pages/coolclubbot' },
           ]
         },
         {
-          text: 'My Twitch Community',
+          text: 'CoolAid Twitch Community',
           items: [
             { text: 'Hardcore World', link: '/pages/hardcore' },
             { text: 'Mods & Packs List', link: '/pages/mods-packs-list' },
             { text: 'Meet the Homies', link: '/pages/homies' },
-            { text: 'Partnerships', link: '/pages/partners' },
+            { text: 'Teams & Affiliates', link: '/pages/teams-affiliates' },
           ]
         },
         {

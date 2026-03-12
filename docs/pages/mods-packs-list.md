@@ -6,7 +6,7 @@
 
 The following list contains every mod that CoolAid uses to keep his game smooth and aesthetically pleasing! These mods can be found on **Modrinth**. Any other questions, PLEASE refer to Google, not Twitch chat or Discord, thanks! Please also note that all of these mods use **FabricMC**. Check out [fabricmc.net](https://fabricmc.net/) for information on what the Fabric toolchain is and/or how to install Fabric. **All mods are, of course, 1.21.11 compatible!**
 
-![mods](/MODS.png)
+![mods](/modsList.png)
 
 #### Dependency Mods & Libraries:
 
@@ -68,7 +68,7 @@ The following list contains every mod that CoolAid uses to keep his game smooth 
 
 The following list contains every Resource Pack **AND** Datapack that CoolAid uses! All Datapacks can be found on the **Vanilla Tweaks** website, found here: [vanillatweaks.net](https://vanillatweaks.net/). The public packs can be found on Modrinth Any other questions, PLEASE refer to Google, not Twitch chat or Discord, thanks! Please note that the Wandering Trades pack is fully PRIVATE and custom-made, made by CoolAid. **All packs are, of course, 1.21.11 compatible!**
 
-![packs](/PACKS.png)
+![packs](/packsList.png)
 
 #### Resource Packs:
 

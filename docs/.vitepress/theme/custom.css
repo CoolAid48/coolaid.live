@@ -1,4 +1,6 @@
 :root {
+  scrollbar-gutter: stable;
+
   --vp-c-brand-1: #409cff;
 
   --vp-home-hero-image-background-image: linear-gradient(

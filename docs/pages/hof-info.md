@@ -3,7 +3,7 @@
 ### What is the HOF?
 The Hall of Fame is a build dedicated to CoolAid's top supporters who have been most active members of the community. You need 3 or more Days of Watchtime to apply for a HOF plot. (Example of a plot shown below)
 
-![plot](/plot.png)
+![plot](/hofPlot.png)
 
 ---
 ### Hall of Fame FAQ
