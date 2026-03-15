@@ -1,13 +1,4 @@
-package.json linguist-vendored=false
-package-lock.json linguist-vendored=true
-docs/** linguist-detectable=true
-
-# Markdown
 *.md linguist-language=Markdown
-
-# JavaScript
 *.js linguist-language=JavaScript
 *.mts linguist-language=TypeScript
-
-# CSS
 *.css linguist-language=CSS
