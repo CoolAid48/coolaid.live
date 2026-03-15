@@ -3,6 +3,8 @@ outline: false
 ---
 
 # 📱 Contact Us 📱
+---
+
 | For Business Inquiries | For Merch Store Inquiries |
 | ----------- | ----------- |
 | Email me at aidan.coolaid.48@gmail.com for business opportunities **ONLY** | Email Fourthwall customer service at contact@support.shop.coolaid.live |

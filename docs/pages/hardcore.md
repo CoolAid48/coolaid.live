@@ -1,15 +1,17 @@
+---
+outline: false
+---
+
 # ⛏️ CoolAid's Hardcore Minecraft World ⛏️
+#### My Hardcore Minecraft world that I stream on Twitch & home of the Hall of Fame
+
+---
 ![stream](/hardcoreWorld.png)
+### Basic Hardcore World Info
 
-### Basic Info
+I'm currently on my 4th long-term Hardcore World since I started streaming! The world began on November 25th, 2023. I play slightly-modded Java Edition currently on version 1.21.11, featuring both vanilla-friendly performance and QOL mods. You can check out all of my mods, datapacks, and resource packs used in Hardcore on the next page!
 
-CoolAid is currently on his 4th long-term Hardcore World since he started streaming! The world began on November 25th, 2023. He plays "Vanilla+" modded Java Edition currently on version 1.21.7, featuring some QOL and Performance Optimization mods. You can check out all of the mods, datapacks, and resource packs used on the Hardcore world on the Next page!
+### Twitch Redemptions & The Hall of Fame
 
-### Hall of Fame
-
-A big part of the world is the Hall of Fame, a build dedicated to CoolAid's top supporters who have been most active members of the community. You can find all of the info about the Hall of Fame [HERE](https://coolaid.live/pages/hof-info)
-
-### Redemptions
-
-Viewers on Twitch are able to buy redemptions in the world with Channel Points, which is another a big part of the Hardcore streams. Viewers can redeem items for their Hall of Fame plot, a customized armor stand to "protect" the world, or even a large megabuild for 250,000 points!
+Twitch viewers are able to purchase redemptions in the world with channel points, which you obtain just by watching the streams. Viewers can redeem a customized armor stand to "guard" the world, a personal megabuild for a large amount of points, or even items for your Hall of Fame plot, which is another big part of my world. The HOF is a build dedicated to the most active members of my community. Check out the [FAQ page](/pages/hof-info) for all the info about the it.
 

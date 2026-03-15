@@ -1,3 +1,7 @@
+---
+outline: false
+---
+
 # 🤖 What is CoolClubBot? 🤖
 ---
 ### Welcome to my brainchild! 

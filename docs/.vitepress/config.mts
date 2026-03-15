@@ -6,24 +6,26 @@ export default defineConfig({
 
   lastUpdated: true,
   cleanUrls: true,           
-  metaChunk: true,    
+  metaChunk: true,   
 
+  title: 'CoolAid.live',
   head: [['link', {rel: 'icon', href: '/icon.png' }]],
-
-  title: 'Home',
-  titleTemplate: 'CoolAid.live',
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     
+    logo: '/icon.png',
+    siteTitle: 'CoolAid | Home',
+    outline: 3,
+
     search: {
       provider: 'local',
     },
 
-    logo: '/icon.png',
-    siteTitle: 'CoolAid | Home',
-
-    outline: 3,
+    editLink: {
+      pattern: 'https://github.com/coolaid48/coolaid.live/edit/main/docs/:path',
+      text: 'Update these pages on GitHub'
+    },
 
     footer: {
       message: 'Made with ❤️ by Aidan | Powered by VitePress',
@@ -31,18 +33,33 @@ export default defineConfig({
     },    
 
     nav: [
-      { text: 'About Me', link: '/pages/introduction' },
-      { text: 'My Projects',
+      { text: 'About Me', 
         items: [
-          { text: 'This Website!', link: '/pages/website' },
-          { text: 'Enhanced Keybinds Mod', link: '/pages/enhancedkeybinds' },
-          { text: 'NoSignGUI Mod', link: '/pages/nosigngui' },
-          { text: 'CoolClubBot for Discord', link: '/pages/coolclubbot' },
+            { text: 'Introduction', link: '/pages/introduction' },
+            { text: 'My Socials', link: '/pages/socials' },
+            { text: 'PC Setup Specs', link: '/pages/setup-specs' },
+            { text: 'This Website', link: '/pages/website' },
+            { text: 'CoolClubBot', link: '/pages/coolclubbot' },
+        ]
+      },
+      { text: 'My Mods',
+        items: [
+            { text: 'NoSignGUI', link: '/pages/mods/disablesigngui' },
+            { text: 'Enhanced Keybinds', link: '/pages/mods/enhancedkeybinds' },
+            { text: 'Dynamic Raid Radius', link: '/pages/mods/drsr' },
+            { text: 'Disenchant Curses', link: '/pages/mods/disenchant-curses' },
+            { text: 'Hands Off My Block', link: '/pages/mods/hands-off-my-block' },
+            { text: 'NoMoreJumpscares', link: '/pages/mods/nomorejumpscares' },
+            { text: 'More Search Bars', link: '/pages/mods/more-search-bars' },
+            { text: 'Toggle Beacon Beams', link: '/pages/mods/toggle-beacon-beams' },
         ]
       },
       { text: 'Twitch Community',
         items: [
-          { text: 'My Twitch Community', link: '/pages/hardcore' },
+          { text: 'Hardcore World', link: '/pages/hardcore' },
+          { text: 'Mods & Packs List', link: '/pages/mods-packs-list' },
+          { text: 'Teams & Affiliates', link: '/pages/teams-affiliates' },
+          { text: 'Meet the Homies', link: '/pages/homies' },
           { text: 'Hardcore Hall of Fame', link: '/pages/hof-info' },
           { text: 'Twitch Channel', link: 'https://www.twitch.tv/coolaid48' },
         ]
@@ -57,15 +74,15 @@ export default defineConfig({
           text: 'About Me',
           items: [
             { text: 'Introduction', link: '/pages/introduction' },
-            { text: 'PC Setup Specs', link: '/pages/setup-specs' },
             { text: 'My Socials', link: '/pages/socials' },
+            { text: 'PC Setup Specs', link: '/pages/setup-specs' },
+            { text: 'This Website', link: '/pages/website' },
+            { text: 'CoolClubBot', link: '/pages/coolclubbot' },
           ]
         },
         {
-          text: 'My Projects',
+          text: 'My Minecraft Mods',
           items: [
-            { text: 'This Website', link: '/pages/website' },
-            { text: 'CoolClubBot', link: '/pages/coolclubbot' },
             { text: 'NoSignGUI', link: '/pages/mods/disablesigngui' },
             { text: 'Enhanced Keybinds', link: '/pages/mods/enhancedkeybinds' },
             { text: 'Dynamic Raid Radius', link: '/pages/mods/drsr' },
@@ -79,18 +96,18 @@ export default defineConfig({
         {
           text: 'CoolAid Twitch Community',
           items: [
-            { text: 'Meet the Homies', link: '/pages/homies' },
             { text: 'Hardcore World', link: '/pages/hardcore' },
             { text: 'Mods & Packs List', link: '/pages/mods-packs-list' },
             { text: 'Teams & Affiliates', link: '/pages/teams-affiliates' },
+            { text: 'Meet the Homies', link: '/pages/homies' },
           ]
         },
         {
           text: 'The Hall of Fame',
           items: [
-            { text: 'What is the HOF? w/ FAQ', link: '/pages/hof-info' },
+            { text: 'Hall of Fame FAQ', link: '/pages/hof-info' },
             { text: 'HOF Application Form', link: 'https://docs.google.com/forms/d/e/1FAIpQLSdO8tFqPqHWK9bx5z2iTWX2G8-tafWylViIJnnAZE4twjISQw/viewform' },
-            { text: 'HOF Items List', link: 'https://docs.google.com/spreadsheets/d/145x9910pUwjP6y4u008SjjX_q6jKdTfD7xz55zppjpg/edit?gid=0#gid=0' }
+            { text: 'Hall of Fame Items List', link: 'https://docs.google.com/spreadsheets/d/145x9910pUwjP6y4u008SjjX_q6jKdTfD7xz55zppjpg/edit?gid=0#gid=0' },
           ]
         }
       ] 
