@@ -1,4 +1,4 @@
 .vscode
-dist
-cache
+*dist
+*cache
 node_modules
