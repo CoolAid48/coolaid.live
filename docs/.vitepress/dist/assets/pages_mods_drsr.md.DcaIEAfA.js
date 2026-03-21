@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t}from"./chunks/framework.BZohXCq9.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/mods/drsr.md","filePath":"pages/mods/drsr.md","lastUpdated":1773358904000}'),r={name:"pages/mods/drsr.md"};function a(o,d,c,n,p,m){return s(),t("div")}const f=e(r,[["render",a]]);export{i as __pageData,f as default};
