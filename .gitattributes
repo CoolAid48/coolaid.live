@@ -1,0 +1,7 @@
+*.md linguist-language=Markdown linguist-detectable=true
+/docs/**/*.md linguist-documentation=false
+/docs/**/**/.ts linguist-documentation=false
+
+*.ts linguist-language=TypeScript linguist-detectable=true
+*.mts linguist-language=TypeScript linguist-detectable=true
+*.css linguist-language=CSS linguist-detectable=true
