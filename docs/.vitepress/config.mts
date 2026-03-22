@@ -9,7 +9,15 @@ export default defineConfig({
   metaChunk: true,   
 
   title: 'CoolAid.live',
-  head: [['link', {rel: 'icon', href: '/icon.png' }]],
+  description: "A cool VitePress site",
+  head: [ 
+    ['link', {rel: 'icon', href: '/icon.png' }],
+    // Open Graph meta tags for Discord Embed Stuff
+    ['meta', { property: 'og:title', content: 'CoolAid.live' }],                                           // Discord Embed Title
+    ['meta', { property: 'og:description', content: 'My own static website built using VitePress!' }],     // Discord Embed Description
+    ['meta', { property: 'og:image', content: 'https://coolaid.live/icon.png' }],                          // Site icon
+    ['meta', { name: 'theme-color', content: '#0257B3' }]                                                // Embed color
+  ],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
