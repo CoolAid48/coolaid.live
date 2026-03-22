@@ -1,4 +1,2 @@
-*.md linguist-language=Markdown linguist-detectable=true
 *.html linguist-language=HTML linguist-detectable=true
-/docs/** linguist-documentation=false
 /docs/.vitepress/dist/** -linguist-generated
