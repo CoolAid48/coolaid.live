@@ -3,7 +3,7 @@ cache
 node_modules
 
 # dist/
-*.woff2
+assets
 *.png
 *.gif
 *.json
