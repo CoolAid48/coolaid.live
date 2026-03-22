@@ -1,4 +1,2 @@
 *.md linguist-language=Markdown linguist-detectable=true
-
 /docs/** linguist-documentation=false
-/docs/dist/** linguist-documentation=false linguist-detectable=true
