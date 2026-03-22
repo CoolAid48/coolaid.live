@@ -11,7 +11,7 @@
   --vp-home-hero-image-filter: blur(200px);
 }
 
-/* Hide the sidebar scrollbar but keep scrolling */
+/* Hide the sidebar scrollbar */
 .VPSidebar {
   scrollbar-width: none;
   -ms-overflow-style: none;
