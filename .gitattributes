@@ -2,9 +2,13 @@
 *.html linguist-language=HTML linguist-detectable=true
 *.css linguist-language=CSS linguist-detectable=true
 *.ts linguist-language=TypeScript linguist-detectable=true
-*.mts linguist-language=TypeScript linguist-detectable=true
+*.tsx linguist-language=TSX linguist-detectable=true
+
+/docs/*.md linguist-language=Markdown linguist-detectable=true -linguist-generated -linguist-vendored linguist-documentation=false
+/docs/pages/*.md linguist-language=Markdown linguist-detectable=true -linguist-generated -linguist-vendored linguist-documentation=false
+/docs/pages/mods/*.md linguist-language=Markdown linguist-detectable=true -linguist-generated -linguist-vendored linguist-documentation=false
+/docs/pages/**/*.md linguist-language=Markdown linguist-detectable=true -linguist-generated -linguist-vendored linguist-documentation=false
 
 /docs/** linguist-documentation=false
-/docs/pages/mods/** -linguist-generated -linguist-vendored linguist-documentation=false
 /docs/.vitepress/theme/** -linguist-generated -linguist-vendored linguist-documentation=false
 /docs/.vitepress/dist/** -linguist-generated -linguist-vendored linguist-documentation=false
