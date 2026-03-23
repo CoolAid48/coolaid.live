@@ -54,12 +54,12 @@ export default defineConfig({
         items: [
             { text: 'NoSignGUI', link: '/pages/mods/disablesigngui' },
             { text: 'Enhanced Keybinds', link: '/pages/mods/enhancedkeybinds' },
-            { text: 'Dynamic Raid Radius', link: '/pages/mods/drsr' },
             { text: 'Disenchant Curses', link: '/pages/mods/disenchant-curses' },
             { text: 'Hands Off My Block', link: '/pages/mods/hands-off-my-block' },
             { text: 'NoMoreJumpscares', link: '/pages/mods/nomorejumpscares' },
             { text: 'More Search Bars', link: '/pages/mods/more-search-bars' },
             { text: 'Toggle Beacon Beams', link: '/pages/mods/toggle-beacon-beams' },
+            { text: 'Village & Pillage Tweaks', link: '/pages/mods/village-and-pillage-tweaks' },
         ]
       },
       { text: 'Twitch Community',
@@ -93,12 +93,12 @@ export default defineConfig({
           items: [
             { text: 'NoSignGUI', link: '/pages/mods/disablesigngui' },
             { text: 'Enhanced Keybinds', link: '/pages/mods/enhancedkeybinds' },
-            { text: 'Dynamic Raid Radius', link: '/pages/mods/drsr' },
             { text: 'Disenchant Curses', link: '/pages/mods/disenchant-curses' },
             { text: 'Hands Off My Block', link: '/pages/mods/hands-off-my-block' },
             { text: 'NoMoreJumpscares', link: '/pages/mods/nomorejumpscares' },
             { text: 'More Search Bars', link: '/pages/mods/more-search-bars' },
             { text: 'Toggle Beacon Beams', link: '/pages/mods/toggle-beacon-beams' },
+            { text: 'Village & Pillage Tweaks', link: '/pages/mods/village-and-pillage-tweaks' },
           ]
         },
         {
