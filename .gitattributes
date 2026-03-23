@@ -5,5 +5,6 @@
 *.mts linguist-language=TypeScript linguist-detectable=true
 
 /docs/** linguist-documentation=false
+/docs/pages/mods/** -linguist-generated -linguist-vendored linguist-documentation=false
 /docs/.vitepress/theme/** -linguist-generated -linguist-vendored linguist-documentation=false
 /docs/.vitepress/dist/** -linguist-generated -linguist-vendored linguist-documentation=false
