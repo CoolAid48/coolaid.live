@@ -1,4 +1,9 @@
 *.md linguist-language=Markdown linguist-detectable=true
 *.html linguist-language=HTML linguist-detectable=true
+*.css linguist-language=CSS linguist-detectable=true
+*.ts linguist-language=TypeScript linguist-detectable=true
+*.mts linguist-language=TypeScript linguist-detectable=true
+
 /docs/** linguist-documentation=false
-/docs/.vitepress/dist/** -linguist-generated linguist-documentation=false
+/docs/.vitepress/theme/** -linguist-generated -linguist-vendored linguist-documentation=false
+/docs/.vitepress/dist/** -linguist-generated -linguist-vendored linguist-documentation=false
