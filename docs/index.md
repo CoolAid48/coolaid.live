@@ -7,8 +7,8 @@ hero:
   text: "Hi my name is Aidan, welcome to my site"
   tagline: About me, my interests, and more...
   image:
-        src: /icon.png
-        alt: CoolAid
+      src: /icon.png
+      alt: CoolAid
   actions:
     - theme: brand
       text: Join the Discord
