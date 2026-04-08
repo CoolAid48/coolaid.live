@@ -7,8 +7,8 @@ outline: false
 
 | For Business Inquiries | For Merch Store Inquiries |
 | ----------- | ----------- |
-| Email me at aidan.coolaid.48@gmail.com for business opportunities **ONLY** | Email Fourthwall customer service at contact@support.shop.coolaid.live |
-| Please open a ticket in the Discord server for any non-business related inquiries.   | Make sure to also read Fourthwall's policies and terms of service found on the store page. |
+| Email me at aidan.coolaid48@gmail.com for business opportunities **ONLY** | Email Fourthwall customer service at contact@support.shop.coolaid.live |
+| Please open a ticket in the Discord server for any non-business related support.   | Make sure to also read Fourthwall's policies and terms of service found on the store page. |
 
 ### CoolAid48 Social Media Links
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; flex-wrap: wrap;">

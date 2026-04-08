@@ -12,11 +12,26 @@ export default defineConfig({
   description: "A cool VitePress site",
   head: [ 
     ['link', {rel: 'icon', href: '/icon.png' }],
+    
     // Open Graph meta tags for Discord Embed Stuff
     ['meta', { property: 'og:title', content: 'CoolAid.live' }],                                           // Discord Embed Title
     ['meta', { property: 'og:description', content: 'My own static website built using VitePress!' }],     // Discord Embed Description
     ['meta', { property: 'og:image', content: 'https://coolaid.live/icon.png' }],                          // Site icon
-    ['meta', { name: 'theme-color', content: '#0257B3' }]                                                // Embed color
+    ['meta', { name: 'theme-color', content: '#0257B3' }],                                               // Embed color
+
+    // Google Analytics Script - Public ID Tag is G-YSNR1D07FB
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-YSNR1D07FB' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YSNR1D07FB');`
+    ]
   ],
 
   themeConfig: {
@@ -32,7 +47,7 @@ export default defineConfig({
 
     editLink: {
       pattern: 'https://github.com/coolaid48/coolaid.live/edit/main/docs/:path',
-      text: 'Update these pages on GitHub'
+      text: 'Update this page on GitHub'
     },
 
     footer: {
@@ -60,11 +75,12 @@ export default defineConfig({
             { text: 'More Search Bars', link: '/pages/mods/more-search-bars' },
             { text: 'Toggle Beacon Beams', link: '/pages/mods/toggle-beacon-beams' },
             { text: 'Village & Pillage Tweaks', link: '/pages/mods/village-and-pillage-tweaks' },
+            { text: 'Optical', link: '/pages/mods/optical' },
         ]
       },
       { text: 'Twitch Community',
         items: [
-          { text: 'Hardcore World', link: '/pages/hardcore' },
+          { text: 'My Minecraft World', link: '/pages/hardcore' },
           { text: 'Mods & Packs List', link: '/pages/mods-packs-list' },
           { text: 'Teams & Affiliates', link: '/pages/teams-affiliates' },
           { text: 'Meet the Homies', link: '/pages/homies' },
@@ -73,7 +89,7 @@ export default defineConfig({
         ]
       },
       { text: 'CoolAid Merch Store', link: 'https://shop.coolaid.live/' },
-      { text: 'My Ko-Fi Page', link: 'https://ko-fi.com/coolaid48' }
+      { text: 'Discord Server', link: 'https://discord.com/invite/J2SGshKNah' }
     ],
 
     sidebar: {
@@ -99,12 +115,13 @@ export default defineConfig({
             { text: 'More Search Bars', link: '/pages/mods/more-search-bars' },
             { text: 'Toggle Beacon Beams', link: '/pages/mods/toggle-beacon-beams' },
             { text: 'Village & Pillage Tweaks', link: '/pages/mods/village-and-pillage-tweaks' },
+            { text: 'Optical', link: '/pages/mods/optical' },
           ]
         },
         {
           text: 'CoolAid Twitch Community',
           items: [
-            { text: 'Hardcore World', link: '/pages/hardcore' },
+            { text: 'My Minecra World', link: '/pages/hardcore' },
             { text: 'Mods & Packs List', link: '/pages/mods-packs-list' },
             { text: 'Teams & Affiliates', link: '/pages/teams-affiliates' },
             { text: 'Meet the Homies', link: '/pages/homies' },
@@ -123,12 +140,8 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github',    link: 'https://github.com/CoolAid48' },
-      { icon: 'twitch',    link: 'https://www.twitch.tv/coolaid48'},  
+      { icon: 'twitch',    link: 'https://www.twitch.tv/coolaid48'},
       { icon: 'youtube',   link: 'https://www.youtube.com/@CoolAid48'},
-      { icon: 'x',         link: 'https://x.com/CoolAid48'},
-      { icon: 'bluesky',   link: 'https://bsky.app/profile/coolaid.live'},  
-      { icon: 'tiktok',    link: 'https://www.tiktok.com/@coolaid48'},
-      { icon: 'instagram', link: 'https://www.instagram.com/coolaid48_/'},
       { icon: 'kofi',      link: 'https://ko-fi.com/coolaid48' }
     ]
   }

@@ -14,7 +14,7 @@ hero:
       text: Join the Discord
       link: https://discord.com/invite/J2SGshKNah
     - theme: alt
-      text: Website Repo
+      text: Website Source Code
       link: https://github.com/CoolAid48/coolaid.live
     - theme: alt
       text: Contact Me

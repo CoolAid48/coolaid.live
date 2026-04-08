@@ -3,13 +3,13 @@ outline: false
 ---
 
 # ⛏️ CoolAid's Hardcore Minecraft World ⛏️
-#### My Hardcore Minecraft world that I stream on Twitch & home of the Hall of Fame
+#### My Hardcore Minecraft world that I stream on Twitch & home to the Hall of Fame
 
 ---
 ![stream](/hardcoreWorld.png)
 ### Basic Hardcore World Info
 
-I'm currently on my 4th long-term Hardcore World since I started streaming! The world began on November 25th, 2023. I play slightly-modded Java Edition currently on version 1.21.11, featuring both vanilla-friendly performance and QOL mods. You can check out all of my mods, datapacks, and resource packs used in Hardcore on the next page!
+I'm currently on my 4th long-term Hardcore World since I started streaming! The world began on November 25th, 2023. I play slightly-modded Java Edition currently on version 26.1, featuring both vanilla-friendly performance and QOL mods. You can check out all of my mods, datapacks, and resource packs used in Hardcore on the next page!
 
 ### Twitch Redemptions & The Hall of Fame
 

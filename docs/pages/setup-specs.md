@@ -25,7 +25,7 @@
 - *Keyboard* - Keychron S1 Low-Profile
 - *Headset* - HyperX Cloud III
 - *Microphone* - Shure SM7b XLR Microphone (w/ Elgato Mic Arm)
-- *Audio Mixer* - TC-Helicon GoXLR
+- *Audio Mixer* - TC-Helicon GoXLR Mini
 
 | ![Peripherals Setup 1](/keyboard.png) |
 | --- |
