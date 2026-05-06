@@ -2,9 +2,12 @@
 cache
 node_modules
 
-# dist/
 assets
+/docs/.vitepress/dist/docs/
 pages
+
 *.png
 *.gif
 *.json
+
+!docs/public/misc.gif
