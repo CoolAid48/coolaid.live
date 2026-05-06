@@ -3,7 +3,7 @@
 
 ---
 ### 🎮 Main Streaming Desktop 🎮
-- *CPU* - Core I9-13900K 
+- *CPU* - Core i9-13900K 
 - *GPU* - RTX 4070 
 - *Motherboard* - ASUS Z790-PLUS WIFI
 - *RAM* - G.Skill Trident 64GB DDR5 - 6000mhz - CL36
@@ -35,5 +35,4 @@
 - [HP Pavilion Gaming Laptop](https://www.walmart.com/ip/HP-Pavilion-16-FHD-144Hz-Gaming-Laptop-i7-10750H-8GB-512GB-GTX-1650-Ti/900353214)
 - *Custom Laptop RAM* - TEAMGROUP 32GB DDR4
 - *Secondary Mouse* - Steelseries Rival 5
-- *Alternate Mic* - TONOR TC40 USB Condenser Microphone
 - *Deskpad* - [CoolAid Desk Mat](https://shop.coolaid.live/products/coolaid-desk-mat)

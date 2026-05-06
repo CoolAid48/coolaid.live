@@ -32,13 +32,9 @@ The following list contains every mod that CoolAid uses to keep his game smooth 
 
 - *Armor Stands* – [https://modrinth.com/mod/armor-stands](https://modrinth.com/mod/armor-stands)
 - *Borderless Mining Updated* – [https://modrinth.com/mod/borderless-mining-updated](https://modrinth.com/mod/borderless-mining-updated)  
-- *Camera Utils* – [https://modrinth.com/mod/camera-utils](https://modrinth.com/mod/camera-utils)  
 - *Continuity* – [https://modrinth.com/mod/continuity](https://modrinth.com/mod/continuity)  
 - *Enhanced Keybinds* – [https://modrinth.com/mod/enhanced-keybinds](https://modrinth.com/mod/enhanced-keybinds) **(<span style="color: #ffffff;">MADE BY ME</span>)**
 - *Flashback* – [https://modrinth.com/mod/flashback](https://modrinth.com/mod/flashback)  
-- *Freecam* – [https://modrinth.com/mod/freecam](https://modrinth.com/mod/freecam)  
-- *Freelook* – [https://modrinth.com/mod/freelook](https://modrinth.com/mod/freelook)  
-- *Gamma Utils* – [https://modrinth.com/mod/gamma-utils](https://modrinth.com/mod/gamma-utils)  
 - *Invisible Frames* – [https://modrinth.com/mod/invisible-frames-mod](https://modrinth.com/mod/invisible-frames-mod)  
 - **<span style="color: #2dc26b;">*Iris Shaders*</span>** – [https://modrinth.com/mod/iris](https://modrinth.com/mod/iris)  
 - **<span style="color: #e03e2d;">*Litematica*</span>** – [https://modrinth.com/mod/litematica](https://modrinth.com/mod/litematica)  
@@ -48,16 +44,17 @@ The following list contains every mod that CoolAid uses to keep his game smooth 
 - *More Search Bars* – [https://modrinth.com/mod/more-search-bars](https://modrinth.com/mod/more-search-bars)  **(<span style="color: #ffffff;">MADE BY ME</span>)**
 - *Mouse Tweaks* – [https://modrinth.com/mod/mouse-tweaks](https://modrinth.com/mod/mouse-tweaks)  
 - *NoSignGUI* - [https://modrinth.com/mod/disablesigngui](https://modrinth.com/mod/disablesigngui) **(<span style="color: #ffffff;">MADE BY ME</span>)**
-- *Not Enough Animations* – [https://modrinth.com/mod/not-enough-animations](https://modrinth.com/mod/not-enough-animations)  
+- *Not Enough Animations* – [https://modrinth.com/mod/not-enough-animations](https://modrinth.com/mod/not-enough-animations)
+- *Optical* – [https://modrinth.com/mod/optical](https://modrinth.com/mod/optical) **(<span style="color: #ffffff;">MADE BY ME</span>)**
 - *Particle Rain* – [https://modrinth.com/mod/particle-rain](https://modrinth.com/mod/particle-rain)  
 - **<span style="color: #2dc26b;">*Reese's Sodium Options*</span>** – [https://modrinth.com/mod/reeses-sodium-options](https://modrinth.com/mod/reeses-sodium-options)  
 - *ShulkerBoxTooltip* – [https://modrinth.com/mod/shulkerboxtooltip](https://modrinth.com/mod/shulkerboxtooltip)  
 - **<span style="color: #2dc26b;">*Sodium Extra*</span>** – [https://modrinth.com/mod/sodium-extra](https://modrinth.com/mod/sodium-extra)
 - *SoundController* – [https://modrinth.com/mod/sound-controller](https://modrinth.com/mod/sound-controller)  
+- *Toggle Beacon Beams* – [https://modrinth.com/mod/tbb](https://modrinth.com/mod/toggle-beacon-beams) **(<span style="color: #ffffff;">MADE BY ME</span>)**
 - **<span style="color: #e03e2d;">*Tweakaroo*</span>** – [https://modrinth.com/mod/tweakeroo](https://modrinth.com/mod/tweakeroo)
-- *Village and Pillage Tweaks* – [https://modrinth.com/mod/vpt](https://modrinth.com/mod/vpt) **(<span style="color: #ffffff;">MADE BY ME</span>)**
+- *Village and Pillage Tweaks* – [https://modrinth.com/mod/vpt](https://modrinth.com/mod/village-pillage-tweaks) **(<span style="color: #ffffff;">MADE BY ME</span>)**
 - *Xaero's World Map* – [https://modrinth.com/mod/xaeros-world-map](https://modrinth.com/mod/xaeros-world-map)  
-- *Zoomify* – [https://modrinth.com/mod/zoomify](https://modrinth.com/mod/zoomify)  
 
 ---
 ### 🖌️ Packs List for CoolAid's Hardcore World 🖌️

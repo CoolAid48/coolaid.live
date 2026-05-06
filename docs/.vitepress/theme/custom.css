@@ -9,10 +9,53 @@
     #409cff 50%
   );
   --vp-home-hero-image-filter: blur(200px);
+
+  /* Hide the sidebar scrollbar */
+  .VPSidebar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
 }
 
-/* Hide the sidebar scrollbar */
-.VPSidebar {
-  scrollbar-width: none;
-  -ms-overflow-style: none;
+/* Changes font size of homepage buttons */
+.VPHero .VPButton {
+  font-size: 15px !important;
 }
+
+/* Add horizontal spacing between social links */
+.VPNavBarSocialLinks .VPSocialLink {
+  margin-left: 2px !important; /* Adjust this value to increase/decrease gap */
+}
+
+/* Expand the container width */
+.VPFeatures .container {
+  max-width: 1380px !important; /* Increase this number to go wider */
+  width: 100% !important;
+  padding: 0 32px !important;
+}
+
+/* Ensure 5 items fit in one row within the new space */
+@media (min-width: 960px) {
+  .VPFeatures .container .items {
+    display: grid !important;
+    grid-template-columns: repeat(5, 1fr) !important;
+    gap: 14px !important;
+  }
+}
+
+  /* Reset the default flex behavior that causes wrapping */
+  .VPFeatures .item {
+    width: 100% !important;
+    max-width: none;
+    padding: 0;
+  }
+
+  /* Remove padding from the bottom of the features section */
+  .VPFeatures {
+    padding-bottom: 0;
+  }
+
+  .VPHome {
+    margin-bottom: 0 !important;
+    padding-bottom: 0;
+  }

@@ -10,10 +10,8 @@
 - PurpleSquirrel1503
 - FamilyZack
 - MonoCXB
-
-**(Check out some of Abra's incredible Minecraft builds on his [Pinterest](https://uk.pinterest.com/Abrakaidabra/_created/))**
-
 ---
+
 ### ❤️ Top Supporters ❤️
 ![homies](/homies.png)
 
@@ -47,8 +45,9 @@
 
 ---
 ### 🎨 Channel Artists 🎨
-- [Serbiart_](https://www.fiverr.com/serbiart_) - OG Peepo Emotes
-- [locollama_](https://x.com/locollama_) - Bulk of my Emotes
+- [Serbiart_](https://www.fiverr.com/serbiart_) - Original peepo Emotes
+- [locollama_](https://x.com/locollama_) - Second batch of Pepe-style emotes
+- [Sakurart](https://www.fiverr.com/sakurart2020) - Bulk of my Emotes
 - [shimmer](https://x.com/58shimmer) - Various graphics and custom resource pack textures
 - [MandaLin](https://ko-fi.com/mandalin) - Some of my Minecraft mod assets and icons
-- [CarlCrafts](https://www.twitch.tv/carlcrafts) - Animated Hardcore Heart
+- [CarlCrafts](https://www.twitch.tv/carlcrafts) - Animated Hardcore Heart 

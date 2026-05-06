@@ -38,7 +38,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     
     logo: '/icon.png',
-    siteTitle: 'CoolAid | Home',
+    siteTitle: 'CoolAid.live',
     outline: 3,
 
     search: {
@@ -61,26 +61,18 @@ export default defineConfig({
             { text: 'Introduction', link: '/pages/introduction' },
             { text: 'My Socials', link: '/pages/socials' },
             { text: 'PC Setup Specs', link: '/pages/setup-specs' },
-            { text: 'This Website', link: '/pages/website' },
-            { text: 'CoolClubBot', link: '/pages/coolclubbot' },
         ]
       },
-      { text: 'My Mods',
+      { text: 'Documentation',
         items: [
-            { text: 'NoSignGUI', link: '/pages/mods/disablesigngui' },
-            { text: 'Enhanced Keybinds', link: '/pages/mods/enhancedkeybinds' },
-            { text: 'Disenchant Curses', link: '/pages/mods/disenchant-curses' },
-            { text: 'Hands Off My Block', link: '/pages/mods/hands-off-my-block' },
-            { text: 'NoMoreJumpscares', link: '/pages/mods/nomorejumpscares' },
-            { text: 'More Search Bars', link: '/pages/mods/more-search-bars' },
-            { text: 'Toggle Beacon Beams', link: '/pages/mods/toggle-beacon-beams' },
-            { text: 'Village & Pillage Tweaks', link: '/pages/mods/village-and-pillage-tweaks' },
-            { text: 'Optical', link: '/pages/mods/optical' },
+            { text: 'My Projects', link: '/docs/coolclubbot/discord' },
+            { text: 'Minecraft Mod Docs', link: '/docs/nosigngui' },
+            { text: 'Other Docs', link: '/docs/miscellaneous' },
         ]
       },
       { text: 'Twitch Community',
         items: [
-          { text: 'My Minecraft World', link: '/pages/hardcore' },
+          { text: 'The Minecraft World', link: '/pages/hardcore' },
           { text: 'Mods & Packs List', link: '/pages/mods-packs-list' },
           { text: 'Teams & Affiliates', link: '/pages/teams-affiliates' },
           { text: 'Meet the Homies', link: '/pages/homies' },
@@ -93,35 +85,19 @@ export default defineConfig({
     ],
 
     sidebar: {
-      '/pages': [
+      '/pages/': [
         {
           text: 'About Me',
           items: [
             { text: 'Introduction', link: '/pages/introduction' },
             { text: 'My Socials', link: '/pages/socials' },
             { text: 'PC Setup Specs', link: '/pages/setup-specs' },
-            { text: 'This Website', link: '/pages/website' },
-            { text: 'CoolClubBot', link: '/pages/coolclubbot' },
           ]
         },
         {
-          text: 'My Minecraft Mods',
+          text: 'My Twitch Community',
           items: [
-            { text: 'NoSignGUI', link: '/pages/mods/disablesigngui' },
-            { text: 'Enhanced Keybinds', link: '/pages/mods/enhancedkeybinds' },
-            { text: 'Disenchant Curses', link: '/pages/mods/disenchant-curses' },
-            { text: 'Hands Off My Block', link: '/pages/mods/hands-off-my-block' },
-            { text: 'NoMoreJumpscares', link: '/pages/mods/nomorejumpscares' },
-            { text: 'More Search Bars', link: '/pages/mods/more-search-bars' },
-            { text: 'Toggle Beacon Beams', link: '/pages/mods/toggle-beacon-beams' },
-            { text: 'Village & Pillage Tweaks', link: '/pages/mods/village-and-pillage-tweaks' },
-            { text: 'Optical', link: '/pages/mods/optical' },
-          ]
-        },
-        {
-          text: 'CoolAid Twitch Community',
-          items: [
-            { text: 'My Minecra World', link: '/pages/hardcore' },
+            { text: 'The Minecraft World', link: '/pages/hardcore' },
             { text: 'Mods & Packs List', link: '/pages/mods-packs-list' },
             { text: 'Teams & Affiliates', link: '/pages/teams-affiliates' },
             { text: 'Meet the Homies', link: '/pages/homies' },
@@ -134,15 +110,72 @@ export default defineConfig({
             { text: 'HOF Application Form', link: 'https://docs.google.com/forms/d/e/1FAIpQLSdO8tFqPqHWK9bx5z2iTWX2G8-tafWylViIJnnAZE4twjISQw/viewform' },
             { text: 'Hall of Fame Items List', link: 'https://docs.google.com/spreadsheets/d/145x9910pUwjP6y4u008SjjX_q6jKdTfD7xz55zppjpg/edit?gid=0#gid=0' },
           ]
+        },
+        {
+          text: 'Documentation',
+          items: [
+            { text: 'My Projects', link: '/docs/coolclubbot/discord' },
+            { text: 'Minecraft Mod Docs', link: '/docs/nosigngui' },
+            { text: 'Other Docs', link: '/docs/miscellaneous' },
+          ]
         }
-      ] 
+      ],
+
+      '/docs/': [
+        {
+          text: 'My Projects',
+          items: [
+          {
+            text: 'CoolClubBot',
+            items: [
+              { text: 'Discord App', link: '/docs/coolclubbot/discord' },
+              { text: 'Twitch Chatbot', link: '/docs/coolclubbot/twitch' },
+            ]
+          },
+            { text: 'This Website', link: '/docs/website' },
+          ]
+        },
+        {
+          text: 'Minecraft Mod Docs',
+          items: [
+            { text: 'NoSignGUI', link: '/docs/nosigngui' },
+            { text: 'Enhanced Keybinds', link: '/docs/enhancedkeybinds' },
+            { text: 'Disenchant Curses', link: '/docs/disenchant-curses' },
+            { text: 'NoMoreJumpscares', link: '/docs/nomorejumpscares' },
+            { text: 'More Search Bars', link: '/docs/more-search-bars' },
+            { text: 'Toggle Beacon Beams', link: '/docs/toggle-beacon-beams' },
+            { text: 'Village Pillage Tweaks', link: '/docs/village-pillage-tweaks' },
+            { text: 'Optical', link: '/docs/optical' },
+            { text: 'Wandering Trades Manager', link: '/docs/wandering-trades-manager' },
+          ]
+        },
+        {
+          text: 'Other Docs',
+          items: [
+            { text: 'Miscellaneous', link: '/docs/miscellaneous' },
+
+          ]
+        },
+        {
+          text: 'Main Pages',
+          items: [
+            { text: 'About Me', link: '/pages/introduction' },
+            { text: 'My Twitch Community', link: '/pages/hardcore' },
+            { text: 'The Hall of Fame', link: '/pages/hof-info' },
+          ]
+        }
+      ]
     },
 
     socialLinks: [
       { icon: 'github',    link: 'https://github.com/CoolAid48' },
       { icon: 'twitch',    link: 'https://www.twitch.tv/coolaid48'},
       { icon: 'youtube',   link: 'https://www.youtube.com/@CoolAid48'},
-      { icon: 'kofi',      link: 'https://ko-fi.com/coolaid48' }
+      { icon: 'kofi',      link: 'https://ko-fi.com/coolaid48' },
+      { icon: 'bluesky',   link: 'https://bsky.app/profile/coolaid.live' },
+      { icon: 'x',         link: 'https://x.com/CoolAid48' },
+      { icon: 'instagram', link: 'https://www.instagram.com/coolaid48_' },
+      { icon: 'tiktok',    link: 'https://www.tiktok.com/@coolaid48' },
     ]
   }
 })

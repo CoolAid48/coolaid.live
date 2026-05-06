@@ -2,7 +2,7 @@
 outline: false
 ---
 
-# 📱 Contact Us 📱
+# 📱 Contact Me 📱
 ---
 
 | For Business Inquiries | For Merch Store Inquiries |

@@ -20,7 +20,7 @@ The past few years, I have been pursuing new interests in programming and electr
 **I created coolaid.live to keep information about myself, my coding projects, and my Twitch community all together in one place. I also just wanted a space separate from the CoolAid Merch store, so I've built my own static website built using [VitePress](https://vitepress.dev/)!**
 
 #### 1. My Coding Projects
-All the info and documentation for my Minecraft mods can be found right here on my site. Each mod description is listed under the "My Mods" category, and you can also check out the wikis for my other creations, like CoolClubBot and the code to this website!
+All the info and documentation for my Minecraft mods can be found right here on my site. Each mod has documentation listed under the "Minecraft Mod Docs" category, and you can also check out my other creations, like CoolClubBot and the code to this website!
 
 #### 2. Hardcore World and the Hall of Fame
 My Hardcore Minecraft world is a major part of my Twitch streams and my livelihood. The world features various builds dedicated to viewers and a Hall of Fame that supporters can join and redeem items for, all with their Twitch channel points. The Hall of Fame is a very much integrated part of my community, so there's a dedicated category to that as well.
