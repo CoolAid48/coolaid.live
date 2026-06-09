@@ -32,14 +32,15 @@ The following list contains every mod that CoolAid uses to keep his game smooth 
 
 - *Armor Stands* – [https://modrinth.com/mod/armor-stands](https://modrinth.com/mod/armor-stands)
 - *Borderless Mining Updated* – [https://modrinth.com/mod/borderless-mining-updated](https://modrinth.com/mod/borderless-mining-updated)  
-- *Continuity* – [https://modrinth.com/mod/continuity](https://modrinth.com/mod/continuity)  
+- *BetterF3* – [https://modrinth.com/mod/betterf3](https://modrinth.com/mod/betterf3)  
+- *Continuity* – [https://modrinth.com/mod/continuity](https://modrinth.com/mod/continuity)
+- *Custom Paintings* – [https://modrinth.com/mod/custom-paintings-mod](https://modrinth.com/mod/custom-paintings-mod) 
 - *Enhanced Keybinds* – [https://modrinth.com/mod/enhanced-keybinds](https://modrinth.com/mod/enhanced-keybinds) **(<span style="color: #ffffff;">MADE BY ME</span>)**
 - *Flashback* – [https://modrinth.com/mod/flashback](https://modrinth.com/mod/flashback)  
 - *Invisible Frames* – [https://modrinth.com/mod/invisible-frames-mod](https://modrinth.com/mod/invisible-frames-mod)  
 - **<span style="color: #2dc26b;">*Iris Shaders*</span>** – [https://modrinth.com/mod/iris](https://modrinth.com/mod/iris)  
 - **<span style="color: #e03e2d;">*Litematica*</span>** – [https://modrinth.com/mod/litematica](https://modrinth.com/mod/litematica)  
 - **<span style="color: #e03e2d;">*MiniHUD*</span>** – [https://modrinth.com/mod/minihud](https://modrinth.com/mod/minihud)
-- *ModernFix* - [https://modrinth.com/mod/modernfix-mvus](https://modrinth.com/mod/modernfix-mvus)
 - *More Mouse Tweaks* – [https://modrinth.com/mod/moremousetweaks](https://modrinth.com/mod/moremousetweaks)  
 - *More Search Bars* – [https://modrinth.com/mod/more-search-bars](https://modrinth.com/mod/more-search-bars)  **(<span style="color: #ffffff;">MADE BY ME</span>)**
 - *Mouse Tweaks* – [https://modrinth.com/mod/mouse-tweaks](https://modrinth.com/mod/mouse-tweaks)  
@@ -51,9 +52,11 @@ The following list contains every mod that CoolAid uses to keep his game smooth 
 - *ShulkerBoxTooltip* – [https://modrinth.com/mod/shulkerboxtooltip](https://modrinth.com/mod/shulkerboxtooltip)  
 - **<span style="color: #2dc26b;">*Sodium Extra*</span>** – [https://modrinth.com/mod/sodium-extra](https://modrinth.com/mod/sodium-extra)
 - *SoundController* – [https://modrinth.com/mod/sound-controller](https://modrinth.com/mod/sound-controller)  
+- *Task Manager* – [https://modrinth.com/mod/taskmanager](https://modrinth.com/mod/taskmanager)  
 - *Toggle Beacon Beams* – [https://modrinth.com/mod/tbb](https://modrinth.com/mod/toggle-beacon-beams) **(<span style="color: #ffffff;">MADE BY ME</span>)**
 - **<span style="color: #e03e2d;">*Tweakaroo*</span>** – [https://modrinth.com/mod/tweakeroo](https://modrinth.com/mod/tweakeroo)
 - *Village and Pillage Tweaks* – [https://modrinth.com/mod/vpt](https://modrinth.com/mod/village-pillage-tweaks) **(<span style="color: #ffffff;">MADE BY ME</span>)**
+- *Wandering Trades Manager* – [https://modrinth.com/mod/wtm](https://modrinth.com/mod/wandering-trades-manager) **(<span style="color: #ffffff;">MADE BY ME</span>)**
 - *Xaero's World Map* – [https://modrinth.com/mod/xaeros-world-map](https://modrinth.com/mod/xaeros-world-map)  
 
 ---

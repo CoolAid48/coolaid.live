@@ -6,7 +6,6 @@ assets
 /docs/.vitepress/dist/docs/
 pages
 
-*.png
 *.gif
 *.json
 

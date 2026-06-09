@@ -1,14 +1,15 @@
 <div style="display: flex; align-items: flex-start;">
-  <div style="flex: 0.8 1 320px;">
+  <div style="flex: 0.2 1 320px;">
     <h1 style="margin: 0;">👋 Introduction 👋</h1>
-    <h4 style="margin: 24px 0 0 0;">Hey everyone! I'm CoolAid, or just Aid...</h4>
+    <h3 style="margin: 24px 0 0 0;">Hey everyone! I'm Aidan.</h3>
+    <h5 style="margin: 24px 0 0 0;"> Or just "Aid" according to Twitch chat...</h5>
   </div>
-  <img src="/aidW.png" alt="Jumpscare Face Reveal" width="120" />
+  <img src="/me.png" alt="Jumpscare Face Reveal" width="180" />
 </div>
 
 ---
 ### ❓ About Me ❓
-My name is Aidan, born and raised in New York. I am currently a high school senior, with a passion for science and technology. I'm preparing to attend Seton Hall University in the Fall, pursuing a major in Computer Science. I'm a big fan of Star Wars, chocolate, and various videogames. I have also built and upgraded my own custom PC that I call the "Fish Tank"
+My name is Aidan, born and raised in New York. I just graduated high school, with a passion for science and technology. I'm preparing to attend Seton Hall University in the Fall, pursuing a major in Computer Science. I'm a big fan of Star Wars, chocolate, and various videogames. I have also built and upgraded my own custom PC that I call the "Fish Tank"
 
 I started making Minecraft videos on Youtube in August of 2021, and officially started Twitch Streaming a few months later in December. I stream mostly Minecraft, but you'll occasionally see some variety content or coding streams from me! You can find my content over on [Twitch](https://www.twitch.tv/coolaid48). For the streams, we make sure chat is pretty chill, but understand that this is a mature community.
 
